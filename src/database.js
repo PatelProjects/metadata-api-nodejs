@@ -1,4 +1,8 @@
 module.exports = {
+  "0": {
+    "name": "Guino the Penguin",
+    "birthday": "03-09"
+  },
   "1": {
     "name": "Chunky Monkey",
     "birthday": "10-18"
@@ -15,8 +19,4 @@ module.exports = {
     "name": "Quiero Pancakes",
     "birthday": "03-04"
   },
-  "5": {
-    "name": "Guino the Penguin",
-    "birthday": "03-09"
-  }
 }
