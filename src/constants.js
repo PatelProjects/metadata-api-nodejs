@@ -1,4 +1,4 @@
-const HOST = 'https://mock-nft-2.herokuapp.com'
+const HOST = 'https://mock-nft-2-metadata.herokuapp.com'
 
 module.exports = {
   HOST
